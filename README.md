@@ -12,5 +12,6 @@
 
 **Server with Discord bot:**
 
-`python main.py
-python DiscordBotmain.py`
+`python main.py`
+
+`python DiscordBotmain.py`
